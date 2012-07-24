@@ -9,17 +9,18 @@
 body{
 	background-image:url(../Images/bg_body.jpg);
 	background-repeat:repeat;
-	min-height:1500px;
-	width:1100;	
-	margin:0 auto;
 }
 div.container-header{
-	width:auto;
-	min-height:100px;	
+	width:1100px;
+	min-height:100px;
+	margin:0 auto;0
+
+	
 }
 div.header{
-	width:1100px;
-	min-height:100px;	
+	width:inherit;
+	min-height:inherit;
+	margin:0 auto;0
 }
 div.container-menu{
 	min-width:700px;
